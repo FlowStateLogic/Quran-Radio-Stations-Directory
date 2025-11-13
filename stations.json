@@ -1,0 +1,1004 @@
+{
+    "radios": [
+        {
+            "id": "1",
+            "name": "إذاعة صور من حياة الصحابة رضوان الله عليهم",
+            "radio_url": "https://qurango.net/radio/sahabah",
+            "name_en": "Sahaba Stories",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "2",
+            "name": "تراتيل قصيرة متميزة",
+            "radio_url": "https://qurango.net/radio/tarateel",
+            "name_en": "Amazing short Recitations",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "3",
+            "name": "إذاعة آيات السكينة",
+            "radio_url": "https://qurango.net/radio/sakeenah",
+            "name_en": "Calm Recitations",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "154",
+            "name": "إذاعة القرآن الكريم من القاهرة",
+            "radio_url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+            "name_en": "Quran Radio Cairo",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "155",
+            "name": "إذاعة القرآن الكريم من المملكة العربية السعودية",
+            "radio_url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+            "name_en": "Quran Radio Saudi Arabia",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "156",
+            "name": "إذاعة الحرم المكي",
+            "radio_url": "http://r7.tarat.com:8004/stream",
+            "name_en": "Masjid Al Haram Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "157",
+            "name": "إذاعة فتاوى الشيخ ابن عثيمين",
+            "radio_url": "https://server03.quran.com.kw:7147/",
+            "name_en": "Fatwas of Sheikh Ibn Uthaymeen",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "158",
+            "name": "إذاعة فتاوى الشيخ متولي الشعراوي",
+            "radio_url": "https://server03.quran.com.kw:7148/",
+            "name_en": "Fatwas of Sheikh Metwally El Shaarawy",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "159",
+            "name": "إذاعة نداء الإسلام",
+            "radio_url": "http://n07.radiojar.com/59096z743d0uv",
+            "name_en": "Nidaa Al Islam Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "160",
+            "name": "إذاعة رقية شرعية",
+            "radio_url": "https://backup.qurango.net/radio/roqiah",
+            "name_en": "Ruqyah Shariah Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "161",
+            "name": "إذاعة تفسير القرآن الكريم",
+            "radio_url": "https://backup.qurango.net/radio/tafsir",
+            "name_en": "Quran Tafsir Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "162",
+            "name": "إذاعة تلاوات خاشعة",
+            "radio_url": "https://backup.qurango.net/radio/salma",
+            "name_en": "Calm Recitations Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "163",
+            "name": "إذاعة تكبيرات العيد",
+            "radio_url": "https://backup.qurango.net/radio/eid",
+            "name_en": "Eid Takbeerat Radio",
+            "category": "منوعات",
+            "category_en": "Others"
+        },
+        {
+            "id": "164",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - مجود",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Mujawwad",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "165",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - مرتل",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_murattal",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Murattal",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "166",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "167",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - مجود",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Mujawwad",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "168",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - مرتل",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_murattal",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Murattal",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "169",
+            "name": "إذاعة الشيخ محمود خليل الحصري - مجود",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Mujawwad",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "170",
+            "name": "إذاعة الشيخ محمود خليل الحصري - مرتل",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_murattal",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Murattal",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "171",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ورش",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "172",
+            "name": "إذاعة الشيخ محمود علي البنا - مجود",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Mujawwad",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "173",
+            "name": "إذاعة الشيخ محمود علي البنا - مرتل",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_murattal",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Murattal",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "174",
+            "name": "إذاعة الشيخ مشاري العفاسي",
+            "radio_url": "https://backup.qurango.net/radio/mishary_alafasi",
+            "name_en": "Sheikh Mishary Al Afasi",
+            "category": "مشاري العفاسي",
+            "category_en": "Mishary Al Afasi"
+        },
+        {
+            "id": "175",
+            "name": "إذاعة الشيخ ناصر القطامي",
+            "radio_url": "https://backup.qurango.net/radio/nasser_alqatami",
+            "name_en": "Sheikh Nasser Al Qatami",
+            "category": "ناصر القطامي",
+            "category_en": "Nasser Al Qatami"
+        },
+        {
+            "id": "176",
+            "name": "إذاعة الشيخ نبيل الرفاعي",
+            "radio_url": "https://backup.qurango.net/radio/nabil_al_rifay",
+            "name_en": "Sheikh Nabil Al Rifay",
+            "category": "نبيل الرفاعي",
+            "category_en": "Nabil Al Rifay"
+        },
+        {
+            "id": "177",
+            "name": "إذاعة الشيخ هيثم الجدعاني",
+            "radio_url": "https://backup.qurango.net/radio/hitham_aljadani",
+            "name_en": "Sheikh Haitham Al Jadaani",
+            "category": "هيثم الجدعاني",
+            "category_en": "Haitham Al Jadaani"
+        },
+        {
+            "id": "178",
+            "name": "إذاعة الشيخ ياسر الدوسري",
+            "radio_url": "https://backup.qurango.net/radio/yasser_aldosari",
+            "name_en": "Sheikh Yasser Al Dosari",
+            "category": "ياسر الدوسري",
+            "category_en": "Yasser Al Dosari"
+        },
+        {
+            "id": "179",
+            "name": "إذاعة الشيخ أبو بكر الشاطري",
+            "radio_url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+            "name_en": "Sheikh Abu Bakr Al Shatri",
+            "category": "أبو بكر الشاطري",
+            "category_en": "Abu Bakr Al Shatri"
+        },
+        {
+            "id": "180",
+            "name": "إذاعة الشيخ أحمد خضر الطرابلسي",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+            "name_en": "Sheikh Ahmad Khader Al Tarabulsi",
+            "category": "أحمد خضر الطرابلسي",
+            "category_en": "Ahmad Khader Al Tarabulsi"
+        },
+        {
+            "id": "181",
+            "name": "إذاعة الشيخ إبراهيم الأخضر",
+            "radio_url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+            "name_en": "Sheikh Ibrahim Al Akhdar",
+            "category": "إبراهيم الأخضر",
+            "category_en": "Ibrahim Al Akhdar"
+        },
+        {
+            "id": "182",
+            "name": "إذاعة الشيخ خالد الجليل",
+            "radio_url": "https://backup.qurango.net/radio/khalid_aljileel",
+            "name_en": "Sheikh Khalid Al Jileel",
+            "category": "خالد الجليل",
+            "category_en": "Khalid Al Jileel"
+        },
+        {
+            "id": "183",
+            "name": "إذاعة الشيخ صلاح الهاشم",
+            "radio_url": "https://backup.qurango.net/radio/salah_alhashim",
+            "name_en": "Sheikh Salah Al Hashim",
+            "category": "صلاح الهاشم",
+            "category_en": "Salah Al Hashim"
+        },
+        {
+            "id": "184",
+            "name": "إذاعة الشيخ صلاح بو خاطر",
+            "radio_url": "https://backup.qurango.net/radio/slaah_bukhatir",
+            "name_en": "Sheikh Salah Bu Khater",
+            "category": "صلاح بو خاطر",
+            "category_en": "Salah Bu Khater"
+        },
+        {
+            "id": "185",
+            "name": "إذاعة الشيخ عبد العزيز سحيم",
+            "radio_url": "https://backup.qurango.net/radio/a_sheim",
+            "name_en": "Sheikh Abdul Aziz Suhaim",
+            "category": "عبد العزيز سحيم",
+            "category_en": "Abdul Aziz Suhaim"
+        },
+        {
+            "id": "186",
+            "name": "إذاعة الشيخ فارس عباد",
+            "radio_url": "https://backup.qurango.net/radio/fares_abbad",
+            "name_en": "Sheikh Fares Abbad",
+            "category": "فارس عباد",
+            "category_en": "Fares Abbad"
+        },
+        {
+            "id": "187",
+            "name": "إذاعة الشيخ ماهر المعيقلي",
+            "radio_url": "https://backup.qurango.net/radio/maher",
+            "name_en": "Sheikh Maher Al Muaiqly",
+            "category": "ماهر المعيقلي",
+            "category_en": "Maher Al Muaiqly"
+        },
+        {
+            "id": "188",
+            "name": "إذاعة الشيخ وديع اليمني",
+            "radio_url": "https://backup.qurango.net/radio/wadie_alyamani",
+            "name_en": "Sheikh Wadie Al Yamani",
+            "category": "وديع اليمني",
+            "category_en": "Wadie Al Yamani"
+        },
+        {
+            "id": "189",
+            "name": "إذاعة الشيخ عبد الرحمن السديس",
+            "radio_url": "https://backup.qurango.net/radio/sudais",
+            "name_en": "Sheikh Abdul Rahman Al Sudais",
+            "category": "عبد الرحمن السديس",
+            "category_en": "Abdul Rahman Al Sudais"
+        },
+        {
+            "id": "190",
+            "name": "إذاعة الشيخ سعود الشريم",
+            "radio_url": "https://backup.qurango.net/radio/shuraim",
+            "name_en": "Sheikh Saud Al Shuraim",
+            "category": "سعود الشريم",
+            "category_en": "Saud Al Shuraim"
+        },
+        {
+            "id": "191",
+            "name": "إذاعة الشيخ علي الحذيفي",
+            "radio_url": "https://backup.qurango.net/radio/hudhaify",
+            "name_en": "Sheikh Ali Al Hudhaify",
+            "category": "علي الحذيفي",
+            "category_en": "Ali Al Hudhaify"
+        },
+        {
+            "id": "192",
+            "name": "إذاعة الشيخ عبد الله عواد الجهني",
+            "radio_url": "https://backup.qurango.net/radio/juhany",
+            "name_en": "Sheikh Abdullah Awad Al Juhany",
+            "category": "عبد الله عواد الجهني",
+            "category_en": "Abdullah Awad Al Juhany"
+        },
+        {
+            "id": "193",
+            "name": "إذاعة الشيخ بندر بليلة",
+            "radio_url": "https://backup.qurango.net/radio/baleelah",
+            "name_en": "Sheikh Bandar Baleelah",
+            "category": "بندر بليلة",
+            "category_en": "Bandar Baleelah"
+        },
+        {
+            "id": "194",
+            "name": "إذاعة الشيخ عبد المحسن القاسم",
+            "radio_url": "https://backup.qurango.net/radio/qasim",
+            "name_en": "Sheikh Abdul Mohsen Al Qasim",
+            "category": "عبد المحسن القاسم",
+            "category_en": "Abdul Mohsen Al Qasim"
+        },
+        {
+            "id": "195",
+            "name": "إذاعة الشيخ محمد أيوب",
+            "radio_url": "https://backup.qurango.net/radio/ayyoub",
+            "name_en": "Sheikh Muhammad Ayyub",
+            "category": "محمد أيوب",
+            "category_en": "Muhammad Ayyub"
+        },
+        {
+            "id": "196",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "197",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "198",
+            "name": "إذاعة الشيخ محمود خليل الحصري - حفص",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "199",
+            "name": "إذاعة الشيخ محمود علي البنا - حفص",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "200",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "201",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "202",
+            "name": "إذاعة الشيخ محمود خليل الحصري - قالون",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "203",
+            "name": "إذاعة الشيخ محمود علي البنا - قالون",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "204",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "205",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "206",
+            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "207",
+            "name": "إذاعة الشيخ محمود علي البنا - الدوري",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "208",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "209",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "210",
+            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "211",
+            "name": "إذاعة الشيخ محمود علي البنا - السوسي",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "212",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "213",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "214",
+            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "215",
+            "name": "إذاعة الشيخ محمود علي البنا - شعبة",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "216",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "217",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "218",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "219",
+            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "220",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs_an_asim",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs 'an 'Asim",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "221",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs_an_asim",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs 'an 'Asim",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "222",
+            "name": "إذاعة الشيخ محمود خليل الحصري - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs_an_asim",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs 'an 'Asim",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "223",
+            "name": "إذاعة الشيخ محمود علي البنا - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs_an_asim",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs 'an 'Asim",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "224",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh_an_nafi",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh 'an Nafi'",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "225",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_warsh_an_nafi",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Warsh 'an Nafi'",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "226",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh_an_nafi",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh 'an Nafi'",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "227",
+            "name": "إذاعة الشيخ محمود علي البنا - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_warsh_an_nafi",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Warsh 'an Nafi'",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "228",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon_an_nafi",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon 'an Nafi'",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "229",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon_an_nafi",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon 'an Nafi'",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "230",
+            "name": "إذاعة الشيخ محمود خليل الحصري - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon_an_nafi",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon 'an Nafi'",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "231",
+            "name": "إذاعة الشيخ محمود علي البنا - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon_an_nafi",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon 'an Nafi'",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "232",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri_an_abi_amr",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri 'an Abi Amr",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "233",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri_an_abi_amr",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri 'an Abi Amr",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "234",
+            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri 'an Abi Amr",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "235",
+            "name": "إذاعة الشيخ محمود علي البنا - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri 'an Abi Amr",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "236",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi_an_abi_amr",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi 'an Abi Amr",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "237",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi_an_abi_amr",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi 'an Abi Amr",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "238",
+            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi 'an Abi Amr",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "239",
+            "name": "إذاعة الشيخ محمود علي البنا - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi 'an Abi Amr",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "240",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah_an_asim",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah 'an 'Asim",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "241",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah_an_asim",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah 'an 'Asim",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "242",
+            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah_an_asim",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah 'an 'Asim",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "243",
+            "name": "إذاعة الشيخ محمود علي البنا - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah_an_asim",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah 'an 'Asim",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "244",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "245",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "246",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "247",
+            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "248",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs_an_asim",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs 'an 'Asim",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "249",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs_an_asim",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs 'an 'Asim",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "250",
+            "name": "إذاعة الشيخ محمود خليل الحصري - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs_an_asim",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs 'an 'Asim",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "251",
+            "name": "إذاعة الشيخ محمود علي البنا - حفص عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs_an_asim",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs 'an 'Asim",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "252",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh_an_nafi",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh 'an Nafi'",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "253",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_warsh_an_nafi",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Warsh 'an Nafi'",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "254",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh_an_nafi",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh 'an Nafi'",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "255",
+            "name": "إذاعة الشيخ محمود علي البنا - ورش عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_warsh_an_nafi",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Warsh 'an Nafi'",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "256",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon_an_nafi",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon 'an Nafi'",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "257",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon_an_nafi",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon 'an Nafi'",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "258",
+            "name": "إذاعة الشيخ محمود خليل الحصري - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon_an_nafi",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon 'an Nafi'",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "259",
+            "name": "إذاعة الشيخ محمود علي البنا - قالون عن نافع",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon_an_nafi",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon 'an Nafi'",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "260",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri_an_abi_amr",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri 'an Abi Amr",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "261",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri_an_abi_amr",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri 'an Abi Amr",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "262",
+            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri 'an Abi Amr",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "263",
+            "name": "إذاعة الشيخ محمود علي البنا - الدوري عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri 'an Abi Amr",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "264",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi_an_abi_amr",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi 'an Abi Amr",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "265",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi_an_abi_amr",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi 'an Abi Amr",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "266",
+            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi 'an Abi Amr",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "267",
+            "name": "إذاعة الشيخ محمود علي البنا - السوسي عن أبي عمرو",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi_an_abi_amr",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi 'an Abi Amr",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "268",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah_an_asim",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah 'an 'Asim",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "269",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah_an_asim",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah 'an 'Asim",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "270",
+            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah_an_asim",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah 'an 'Asim",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "271",
+            "name": "إذاعة الشيخ محمود علي البنا - شعبة عن عاصم",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah_an_asim",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah 'an 'Asim",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        },
+        {
+            "id": "272",
+            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "عبد الباسط عبد الصمد",
+            "category_en": "Abdul Basit Abdul Samad"
+        },
+        {
+            "id": "273",
+            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمد صديق المنشاوي",
+            "category_en": "Mohammed Siddiq Al Minshawi"
+        },
+        {
+            "id": "274",
+            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمود خليل الحصري",
+            "category_en": "Mahmoud Khalil Al Hussary"
+        },
+        {
+            "id": "275",
+            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان عن ابن عامر",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan_an_ibn_amir",
+            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan 'an Ibn 'Amir",
+            "category": "محمود علي البنا",
+            "category_en": "Mahmoud Ali Al Banna"
+        }
+    ]
+}
