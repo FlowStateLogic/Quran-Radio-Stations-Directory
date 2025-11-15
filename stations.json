@@ -2,1003 +2,1395 @@
     "radios": [
         {
             "id": "1",
-            "name": "إذاعة صور من حياة الصحابة رضوان الله عليهم",
-            "radio_url": "https://qurango.net/radio/sahabah",
-            "name_en": "Sahaba Stories",
-            "category": "منوعات",
-            "category_en": "Others"
+            "name": "إذاعة إبراهيم الأخضر",
+            "radio_url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+            "name_en": "إذاعة إبراهيم الأخضر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "2",
-            "name": "تراتيل قصيرة متميزة",
-            "radio_url": "https://qurango.net/radio/tarateel",
-            "name_en": "Amazing short Recitations",
-            "category": "منوعات",
-            "category_en": "Others"
+            "name": "إذاعة شيخ أبو بكر الشاطري",
+            "radio_url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+            "name_en": "إذاعة شيخ أبو بكر الشاطري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "3",
-            "name": "إذاعة آيات السكينة",
-            "radio_url": "https://qurango.net/radio/sakeenah",
-            "name_en": "Calm Recitations",
-            "category": "منوعات",
-            "category_en": "Others"
+            "name": "إذاعة أحمد العجمي",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_alajmy",
+            "name_en": "إذاعة أحمد العجمي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "154",
-            "name": "إذاعة القرآن الكريم من القاهرة",
-            "radio_url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-            "name_en": "Quran Radio Cairo",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "4",
+            "name": "إذاعة أحمد الحواشي",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_alhawashi",
+            "name_en": "إذاعة أحمد الحواشي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "155",
-            "name": "إذاعة القرآن الكريم من المملكة العربية السعودية",
-            "radio_url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
-            "name_en": "Quran Radio Saudi Arabia",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "5",
+            "name": "إذاعة أحمد صابر",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_saber",
+            "name_en": "إذاعة أحمد صابر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "156",
-            "name": "إذاعة الحرم المكي",
-            "radio_url": "http://r7.tarat.com:8004/stream",
-            "name_en": "Masjid Al Haram Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "6",
+            "name": "إذاعة أحمد نعينع",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_nauina",
+            "name_en": "إذاعة أحمد نعينع",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "157",
-            "name": "إذاعة فتاوى الشيخ ابن عثيمين",
-            "radio_url": "https://server03.quran.com.kw:7147/",
-            "name_en": "Fatwas of Sheikh Ibn Uthaymeen",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "7",
+            "name": "إذاعة أكرم العلاقمي",
+            "radio_url": "https://backup.qurango.net/radio/akram_alalaqmi",
+            "name_en": "إذاعة أكرم العلاقمي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "158",
-            "name": "إذاعة فتاوى الشيخ متولي الشعراوي",
-            "radio_url": "https://server03.quran.com.kw:7148/",
-            "name_en": "Fatwas of Sheikh Metwally El Shaarawy",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "8",
+            "name": "إذاعة إدريس أبكر",
+            "radio_url": "https://backup.qurango.net/radio/idrees_abkr",
+            "name_en": "إذاعة إدريس أبكر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "159",
-            "name": "إذاعة نداء الإسلام",
-            "radio_url": "http://n07.radiojar.com/59096z743d0uv",
-            "name_en": "Nidaa Al Islam Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "9",
+            "name": "إذاعة الزين محمد أحمد",
+            "radio_url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+            "name_en": "إذاعة الزين محمد أحمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "160",
-            "name": "إذاعة رقية شرعية",
-            "radio_url": "https://backup.qurango.net/radio/roqiah",
-            "name_en": "Ruqyah Shariah Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "10",
+            "name": "إذاعة القارئ ياسين",
+            "radio_url": "https://backup.qurango.net/radio/alqaria_yassen",
+            "name_en": "إذاعة القارئ ياسين",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "161",
-            "name": "إذاعة تفسير القرآن الكريم",
-            "radio_url": "https://backup.qurango.net/radio/tafsir",
-            "name_en": "Quran Tafsir Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "id": "11",
+            "name": "إذاعة العيون الكوشي",
+            "radio_url": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+            "name_en": "إذاعة العيون الكوشي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "162",
-            "name": "إذاعة تلاوات خاشعة",
+            "id": "12",
+            "name": "إذاعة توفيق الصايغ",
+            "radio_url": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+            "name_en": "إذاعة توفيق الصايغ",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "13",
+            "name": "إذاعة جمال شاكر عبدالله",
+            "radio_url": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+            "name_en": "إذاعة جمال شاكر عبدالله",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "14",
+            "name": "إذاعة خالد القحطاني",
+            "radio_url": "https://backup.qurango.net/radio/khaled_alqahtani",
+            "name_en": "إذاعة خالد القحطاني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "15",
+            "name": "إذاعة خالد عبدالكافي",
+            "radio_url": "https://backup.qurango.net/radio/khalid_abdulkafi",
+            "name_en": "إذاعة خالد عبدالكافي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "16",
+            "name": "إذاعة خليفة الطنيجي",
+            "radio_url": "https://backup.qurango.net/radio/khalifa_altunaiji",
+            "name_en": "إذاعة خليفة الطنيجي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "17",
+            "name": "إذاعة سعد الغامدي",
+            "radio_url": "https://backup.qurango.net/radio/saad_alghamdi",
+            "name_en": "إذاعة سعد الغامدي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "18",
+            "name": "إذاعة سعود الشريم",
+            "radio_url": "https://backup.qurango.net/radio/saud_alshuraim",
+            "name_en": "إذاعة سعود الشريم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "19",
+            "name": "إذاعة سهل ياسين",
+            "radio_url": "https://backup.qurango.net/radio/sahl_yassin",
+            "name_en": "إذاعة سهل ياسين",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "20",
+            "name": "إذاعة زكي داغستاني",
+            "radio_url": "https://backup.qurango.net/radio/zaki_daghistani",
+            "name_en": "إذاعة زكي داغستاني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "21",
+            "name": "إذاعة سيد رمضان",
+            "radio_url": "https://backup.qurango.net/radio/sayeed_ramadan",
+            "name_en": "إذاعة سيد رمضان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "22",
+            "name": "إذاعة شيرزاد عبدالرحمن طاهر",
+            "radio_url": "https://backup.qurango.net/radio/shirazad_taher",
+            "name_en": "إذاعة شيرزاد عبدالرحمن طاهر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "23",
+            "name": "إذاعة صابر عبدالحكم",
+            "radio_url": "https://backup.qurango.net/radio/saber_abdulhakm",
+            "name_en": "إذاعة صابر عبدالحكم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "24",
+            "name": "إذاعة صلاح البدير",
+            "radio_url": "https://backup.qurango.net/radio/salah_albudair",
+            "name_en": "إذاعة صلاح البدير",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "25",
+            "name": "إذاعة صلاح الهاشم",
+            "radio_url": "https://backup.qurango.net/radio/salah_alhashim",
+            "name_en": "إذاعة صلاح الهاشم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "26",
+            "name": "إذاعة صلاح بو خاطر",
+            "radio_url": "https://backup.qurango.net/radio/slaah_bukhatir",
+            "name_en": "إذاعة صلاح بو خاطر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "27",
+            "name": "إذاعة عادل ريان",
+            "radio_url": "https://backup.qurango.net/radio/adel_ryyan",
+            "name_en": "إذاعة عادل ريان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "28",
+            "name": "إذاعة عبدالبارئ الثبيتي",
+            "radio_url": "https://backup.qurango.net/radio/abdelbari_altoubayti",
+            "name_en": "إذاعة عبدالبارئ الثبيتي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "29",
+            "name": "إذاعة عبدالبارئ محمد",
+            "radio_url": "https://backup.qurango.net/radio/abdulbari_mohammad",
+            "name_en": "إذاعة عبدالبارئ محمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "30",
+            "name": "إذاعة عبدالباسط عبدالصمد",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+            "name_en": "إذاعة عبدالباسط عبدالصمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "31",
+            "name": "إذاعة عبدالباسط عبدالصمد",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+            "name_en": "إذاعة عبدالباسط عبدالصمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "32",
+            "name": "إذاعة عبدالباسط عبدالصمد",
+            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+            "name_en": "إذاعة عبدالباسط عبدالصمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "33",
+            "name": "إذاعة عبدالرحمن السديس",
+            "radio_url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+            "name_en": "إذاعة عبدالرحمن السديس",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "34",
+            "name": "إذاعة عبدالعزيز الأحمد",
+            "radio_url": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
+            "name_en": "إذاعة عبدالعزيز الأحمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "35",
+            "name": "إذاعة عبدالله المطرود",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_almattrod",
+            "name_en": "إذاعة عبدالله المطرود",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "36",
+            "name": "إذاعة عبدالله بصفر",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_basfer",
+            "name_en": "إذاعة عبدالله بصفر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "37",
+            "name": "إذاعة عبدالله خياط",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_khayyat",
+            "name_en": "إذاعة عبدالله خياط",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "38",
+            "name": "إذاعة عبدالله عواد الجهني",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_aljohany",
+            "name_en": "إذاعة عبدالله عواد الجهني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "39",
+            "name": "إذاعة عبدالرشيد صوفي",
+            "radio_url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
+            "name_en": "إذاعة عبدالرشيد صوفي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "40",
+            "name": "إذاعة عبدالرشيد صوفي",
+            "radio_url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
+            "name_en": "إذاعة عبدالرشيد صوفي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "41",
+            "name": "إذاعة عبدالمحسن الحارثي",
+            "radio_url": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
+            "name_en": "إذاعة عبدالمحسن الحارثي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "42",
+            "name": "إذاعة عبدالمحسن القاسم",
+            "radio_url": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
+            "name_en": "إذاعة عبدالمحسن القاسم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "43",
+            "name": "إذاعة عبدالمحسن العبيكان",
+            "radio_url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
+            "name_en": "إذاعة عبدالمحسن العبيكان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "44",
+            "name": "إذاعة عبدالهادي أحمد كناكري",
+            "radio_url": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
+            "name_en": "إذاعة عبدالهادي أحمد كناكري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "45",
+            "name": "إذاعة عبدالودود حنيف",
+            "radio_url": "https://backup.qurango.net/radio/abdulwadood_haneef",
+            "name_en": "إذاعة عبدالودود حنيف",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "46",
+            "name": "إذاعة علي بن عبدالرحمن الحذيفي",
+            "radio_url": "https://backup.qurango.net/radio/ali_alhuthaifi",
+            "name_en": "إذاعة علي بن عبدالرحمن الحذيفي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "47",
+            "name": "إذاعة علي الحذيفي",
+            "radio_url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+            "name_en": "إذاعة علي الحذيفي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "48",
+            "name": " إذاعة علي جابر",
+            "radio_url": "https://backup.qurango.net/radio/ali_jaber",
+            "name_en": " إذاعة علي جابر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "49",
+            "name": " إذاعة علي حجاج السويسي",
+            "radio_url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+            "name_en": " إذاعة علي حجاج السويسي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "50",
+            "name": " إذاعة عماد زهير حافظ",
+            "radio_url": "https://backup.qurango.net/radio/emad_hafez",
+            "name_en": " إذاعة عماد زهير حافظ",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "51",
+            "name": " إذاعة عمر القزابري",
+            "radio_url": "https://backup.qurango.net/radio/omar_alqazabri",
+            "name_en": " إذاعة عمر القزابري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "52",
+            "name": " إذاعة فارس عباد",
+            "radio_url": "https://backup.qurango.net/radio/fares_abbad",
+            "name_en": " إذاعة فارس عباد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "53",
+            "name": " إذاعة ناصر القطامي",
+            "radio_url": "https://backup.qurango.net/radio/nasser_alqatami",
+            "name_en": " إذاعة ناصر القطامي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "54",
+            "name": " إذاعة نبيل الرفاعي",
+            "radio_url": "https://backup.qurango.net/radio/nabil_al_rifay",
+            "name_en": " إذاعة نبيل الرفاعي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "55",
+            "name": " إذاعة نعمة الحسان",
+            "radio_url": "https://backup.qurango.net/radio/neamah_alhassan",
+            "name_en": " إذاعة نعمة الحسان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "56",
+            "name": " إذاعة هاني الرفاعي",
+            "radio_url": "https://backup.qurango.net/radio/hani_arrifai",
+            "name_en": " إذاعة هاني الرفاعي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "57",
+            "name": " إذاعة وليد النائحي",
+            "radio_url": "https://backup.qurango.net/radio/waleed_alnaehi",
+            "name_en": " إذاعة وليد النائحي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "58",
+            "name": " إذاعة ياسر الدوسري",
+            "radio_url": "https://backup.qurango.net/radio/yasser_aldosari",
+            "name_en": " إذاعة ياسر الدوسري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "59",
+            "name": " إذاعة ياسر القرشي",
+            "radio_url": "https://backup.qurango.net/radio/yasser_alqurashi",
+            "name_en": " إذاعة ياسر القرشي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "60",
+            "name": " إذاعة ياسر المزروعي ",
+            "radio_url": "https://backup.qurango.net/radio/yasser_almazroyee",
+            "name_en": " إذاعة ياسر المزروعي ",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "61",
+            "name": " إذاعة يحيى حوا",
+            "radio_url": "https://backup.qurango.net/radio/yahya_hawwa",
+            "name_en": " إذاعة يحيى حوا",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "62",
+            "name": " إذاعة يوسف الشويعي",
+            "radio_url": "https://backup.qurango.net/radio/yousef_alshoaey",
+            "name_en": " إذاعة يوسف الشويعي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "63",
+            "name": " إذاعة ماهر المعيقلي",
+            "radio_url": "https://backup.qurango.net/radio/maher",
+            "name_en": " إذاعة ماهر المعيقلي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "64",
+            "name": " إذاعة محمد الطبلاوي",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_altablaway",
+            "name_en": " إذاعة محمد الطبلاوي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "65",
+            "name": " إذاعة محمد اللحيدان",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_allohaidan",
+            "name_en": " إذاعة محمد اللحيدان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "66",
+            "name": " إذاعة محمد أيوب",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_ayyub",
+            "name_en": " إذاعة محمد أيوب",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "67",
+            "name": " إذاعة محمد صالح عالم شاه",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+            "name_en": " إذاعة محمد صالح عالم شاه",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "68",
+            "name": " إذاعة محمد جبريل",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_jibreel",
+            "name_en": " إذاعة محمد جبريل",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "69",
+            "name": " إذاعة محمد صديق المنشاوي",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+            "name_en": " إذاعة محمد صديق المنشاوي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "70",
+            "name": " إذاعة محمد صديق المنشاوي",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+            "name_en": " إذاعة محمد صديق المنشاوي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "71",
+            "name": " إذاعة محمد عبدالكريم",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+            "name_en": " إذاعة محمد عبدالكريم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "72",
+            "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+            "name_en": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "73",
+            "name": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+            "name_en": " إذاعة محمد عبدالحكيم سعيد العبدالله",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "74",
+            "name": " إذاعة محمود خليل الحصري",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+            "name_en": " إذاعة محمود خليل الحصري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "75",
+            "name": " إذاعة محمود خليل الحصري",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+            "name_en": " إذاعة محمود خليل الحصري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "76",
+            "name": " إذاعة محمود خليل الحصري",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+            "name_en": " إذاعة محمود خليل الحصري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "77",
+            "name": " إذاعة محمود علي البنا",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+            "name_en": " إذاعة محمود علي البنا",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "78",
+            "name": " إذاعة محمود علي البنا",
+            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+            "name_en": " إذاعة محمود علي البنا",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "79",
+            "name": " إذاعة مشاري العفاسي",
+            "radio_url": "https://backup.qurango.net/radio/mishary_alafasi",
+            "name_en": " إذاعة مشاري العفاسي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "80",
+            "name": " إذاعة مصطفى إسماعيل",
+            "radio_url": "https://backup.qurango.net/radio/mustafa_ismail",
+            "name_en": " إذاعة مصطفى إسماعيل",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "81",
+            "name": " إذاعة مصطفى اللاهوني",
+            "radio_url": "https://backup.qurango.net/radio/mustafa_allahoni",
+            "name_en": " إذاعة مصطفى اللاهوني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "82",
+            "name": " إذاعة مصطفى رعد العزاوي",
+            "radio_url": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+            "name_en": " إذاعة مصطفى رعد العزاوي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "83",
+            "name": " إذاعة مفتاح السلطني",
+            "radio_url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+            "name_en": " إذاعة مفتاح السلطني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "84",
+            "name": " إذاعة ماهر شخاشيرو",
+            "radio_url": "https://backup.qurango.net/radio/maher_shakhashero",
+            "name_en": " إذاعة ماهر شخاشيرو",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "85",
+            "name": " إذاعة محمود الشيمي",
+            "radio_url": "https://backup.qurango.net/radio/mahmood_alsheimy",
+            "name_en": " إذاعة محمود الشيمي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "86",
+            "name": " إذاعة خالد المهنا",
+            "radio_url": "https://backup.qurango.net/radio/khalid_almohana",
+            "name_en": " إذاعة خالد المهنا",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "87",
+            "name": " إذاعة عادل الكلباني",
+            "radio_url": "https://backup.qurango.net/radio/adel_alkhalbany",
+            "name_en": " إذاعة عادل الكلباني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "88",
+            "name": " إذاعة موسى بلال",
+            "radio_url": "https://backup.qurango.net/radio/mousa_bilal",
+            "name_en": " إذاعة موسى بلال",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "89",
+            "name": "حاتم فريد الواعر",
+            "radio_url": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+            "name_en": "حاتم فريد الواعر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "90",
+            "name": " إذاعة محمود الرفاعي",
+            "radio_url": "https://backup.qurango.net/radio/mahmood_al_rifai",
+            "name_en": " إذاعة محمود الرفاعي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "91",
+            "name": " إذاعة ابراهيم الدوسري",
+            "radio_url": "https://backup.qurango.net/radio/ibrahim_aldosari",
+            "name_en": " إذاعة ابراهيم الدوسري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "92",
+            "name": " إذاعة مفتاح السلطني",
+            "radio_url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+            "name_en": " إذاعة مفتاح السلطني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "93",
+            "name": " إذاعة جمعان العصيمي",
+            "radio_url": "https://backup.qurango.net/radio/jamaan_alosaimi",
+            "name_en": " إذاعة جمعان العصيمي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "94",
+            "name": " إذاعة مفتاح السلطني",
+            "radio_url": "https://backup.qurango.net/radio/muftah_alsaltany",
+            "name_en": " إذاعة مفتاح السلطني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "95",
+            "name": " إذاعة يوسف بن نوح أحمد",
+            "radio_url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+            "name_en": " إذاعة يوسف بن نوح أحمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "96",
+            "name": " إذاعة مفتاح السلطني",
+            "radio_url": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+            "name_en": " إذاعة مفتاح السلطني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "97",
+            "name": " إذاعة معيض الحارثي",
+            "radio_url": "https://backup.qurango.net/radio/moeedh_alharthi",
+            "name_en": " إذاعة معيض الحارثي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "98",
+            "name": " إذاعة محمد رشاد الشريف",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+            "name_en": " إذاعة محمد رشاد الشريف",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "99",
+            "name": " إذاعة أحمد خضر الطرابلسي",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+            "name_en": " إذاعة أحمد خضر الطرابلسي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "100",
+            "name": " إذاعة أحمد الطرابلسي",
+            "radio_url": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+            "name_en": " إذاعة أحمد الطرابلسي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "101",
+            "name": " إذاعة عبدالله الكندري",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_alkandari",
+            "name_en": " إذاعة عبدالله الكندري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "102",
+            "name": " إذاعة أحمد عامر",
+            "radio_url": "https://backup.qurango.net/radio/ahmed_amer",
+            "name_en": " إذاعة أحمد عامر",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "103",
+            "name": "إذاعة محمد عثمان خان",
+            "radio_url": "https://backup.qurango.net/radio/mohammed_osman_khan",
+            "name_en": "إذاعة محمد عثمان خان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "104",
+            "name": " إذاعة الدوكالي محمد العالم",
+            "radio_url": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+            "name_en": " إذاعة الدوكالي محمد العالم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "105",
+            "name": " إذاعة محمد عبدالكريم",
+            "radio_url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+            "name_en": " إذاعة محمد عبدالكريم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "106",
+            "name": " إذاعة الفاتح محمد الزبير",
+            "radio_url": "https://backup.qurango.net/radio/alfateh_alzubair",
+            "name_en": " إذاعة الفاتح محمد الزبير",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "107",
+            "name": " إذاعة طارق عبدالغني دعوب",
+            "radio_url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+            "name_en": " إذاعة طارق عبدالغني دعوب",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "108",
+            "name": "-الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
+            "radio_url": "https://backup.qurango.net/radio/mix",
+            "name_en": "-الإذاعة العامة - اذاعة متنوعة لمختلف القراء",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109",
+            "name": "إذاعة -تلاوات خاشعة-",
             "radio_url": "https://backup.qurango.net/radio/salma",
-            "name_en": "Calm Recitations Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "name_en": "إذاعة -تلاوات خاشعة-",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "163",
+            "id": "110",
             "name": "إذاعة تكبيرات العيد",
             "radio_url": "https://backup.qurango.net/radio/eid",
-            "name_en": "Eid Takbeerat Radio",
-            "category": "منوعات",
-            "category_en": "Others"
+            "name_en": "إذاعة تكبيرات العيد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "164",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - مجود",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Mujawwad",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "id": "111",
+            "name": " إذاعة عبدالرحمن الماجد",
+            "radio_url": "https://backup.qurango.net/radio/abdulrahman_almajed",
+            "name_en": " إذاعة عبدالرحمن الماجد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "165",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - مرتل",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_murattal",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Murattal",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "id": "113",
+            "name": "إذاعة الفتاوى العامة",
+            "radio_url": "https://backup.qurango.net/radio/fatwa",
+            "name_en": "إذاعة الفتاوى العامة",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "166",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "id": "114",
+            "name": "إذاعة الرقية الشرعية",
+            "radio_url": "https://backup.qurango.net/radio/roqiah",
+            "name_en": "إذاعة الرقية الشرعية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "167",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - مجود",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Mujawwad",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
+            "id": "115",
+            "name": "إذاعة ---سورة البقرة - لعدد من القراء---",
+            "radio_url": "https://backup.qurango.net/radio/albaqarah",
+            "name_en": "إذاعة ---سورة البقرة - لعدد من القراء---",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "168",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - مرتل",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_murattal",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Murattal",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
+            "id": "116",
+            "name": "إذاعة --تفسير القران الكريم--",
+            "radio_url": "https://backup.qurango.net/radio/tafseer",
+            "name_en": "إذاعة --تفسير القران الكريم--",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "169",
-            "name": "إذاعة الشيخ محمود خليل الحصري - مجود",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Mujawwad",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "170",
-            "name": "إذاعة الشيخ محمود خليل الحصري - مرتل",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_murattal",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Murattal",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "171",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ورش",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "172",
-            "name": "إذاعة الشيخ محمود علي البنا - مجود",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Mujawwad",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "173",
-            "name": "إذاعة الشيخ محمود علي البنا - مرتل",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_murattal",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Murattal",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "174",
-            "name": "إذاعة الشيخ مشاري العفاسي",
-            "radio_url": "https://backup.qurango.net/radio/mishary_alafasi",
-            "name_en": "Sheikh Mishary Al Afasi",
-            "category": "مشاري العفاسي",
-            "category_en": "Mishary Al Afasi"
-        },
-        {
-            "id": "175",
-            "name": "إذاعة الشيخ ناصر القطامي",
-            "radio_url": "https://backup.qurango.net/radio/nasser_alqatami",
-            "name_en": "Sheikh Nasser Al Qatami",
-            "category": "ناصر القطامي",
-            "category_en": "Nasser Al Qatami"
-        },
-        {
-            "id": "176",
-            "name": "إذاعة الشيخ نبيل الرفاعي",
-            "radio_url": "https://backup.qurango.net/radio/nabil_al_rifay",
-            "name_en": "Sheikh Nabil Al Rifay",
-            "category": "نبيل الرفاعي",
-            "category_en": "Nabil Al Rifay"
-        },
-        {
-            "id": "177",
-            "name": "إذاعة الشيخ هيثم الجدعاني",
-            "radio_url": "https://backup.qurango.net/radio/hitham_aljadani",
-            "name_en": "Sheikh Haitham Al Jadaani",
-            "category": "هيثم الجدعاني",
-            "category_en": "Haitham Al Jadaani"
-        },
-        {
-            "id": "178",
-            "name": "إذاعة الشيخ ياسر الدوسري",
-            "radio_url": "https://backup.qurango.net/radio/yasser_aldosari",
-            "name_en": "Sheikh Yasser Al Dosari",
-            "category": "ياسر الدوسري",
-            "category_en": "Yasser Al Dosari"
-        },
-        {
-            "id": "179",
-            "name": "إذاعة الشيخ أبو بكر الشاطري",
-            "radio_url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
-            "name_en": "Sheikh Abu Bakr Al Shatri",
-            "category": "أبو بكر الشاطري",
-            "category_en": "Abu Bakr Al Shatri"
-        },
-        {
-            "id": "180",
-            "name": "إذاعة الشيخ أحمد خضر الطرابلسي",
-            "radio_url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-            "name_en": "Sheikh Ahmad Khader Al Tarabulsi",
-            "category": "أحمد خضر الطرابلسي",
-            "category_en": "Ahmad Khader Al Tarabulsi"
-        },
-        {
-            "id": "181",
-            "name": "إذاعة الشيخ إبراهيم الأخضر",
-            "radio_url": "https://backup.qurango.net/radio/ibrahim_alakdar",
-            "name_en": "Sheikh Ibrahim Al Akhdar",
-            "category": "إبراهيم الأخضر",
-            "category_en": "Ibrahim Al Akhdar"
-        },
-        {
-            "id": "182",
-            "name": "إذاعة الشيخ خالد الجليل",
+            "id": "117",
+            "name": "إذاعة خالد الجليل",
             "radio_url": "https://backup.qurango.net/radio/khalid_aljileel",
-            "name_en": "Sheikh Khalid Al Jileel",
-            "category": "خالد الجليل",
-            "category_en": "Khalid Al Jileel"
+            "name_en": "إذاعة خالد الجليل",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "183",
-            "name": "إذاعة الشيخ صلاح الهاشم",
-            "radio_url": "https://backup.qurango.net/radio/salah_alhashim",
-            "name_en": "Sheikh Salah Al Hashim",
-            "category": "صلاح الهاشم",
-            "category_en": "Salah Al Hashim"
+            "id": "118",
+            "name": "إذاعة ناصر الماجد",
+            "radio_url": "https://backup.qurango.net/radio/nasser_almajed",
+            "name_en": "إذاعة ناصر الماجد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "184",
-            "name": "إذاعة الشيخ صلاح بو خاطر",
-            "radio_url": "https://backup.qurango.net/radio/slaah_bukhatir",
-            "name_en": "Sheikh Salah Bu Khater",
-            "category": "صلاح بو خاطر",
-            "category_en": "Salah Bu Khater"
+            "id": "119",
+            "name": "إذاعة هيثم الجدعاني",
+            "radio_url": "https://backup.qurango.net/radio/hitham_aljadani",
+            "name_en": "إذاعة هيثم الجدعاني",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "185",
-            "name": "إذاعة الشيخ عبد العزيز سحيم",
-            "radio_url": "https://backup.qurango.net/radio/a_sheim",
-            "name_en": "Sheikh Abdul Aziz Suhaim",
-            "category": "عبد العزيز سحيم",
-            "category_en": "Abdul Aziz Suhaim"
+            "id": "120",
+            "name": "إذاعة أحمد خليل شاهين",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_shaheen",
+            "name_en": "إذاعة أحمد خليل شاهين",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "186",
-            "name": "إذاعة الشيخ فارس عباد",
-            "radio_url": "https://backup.qurango.net/radio/fares_abbad",
-            "name_en": "Sheikh Fares Abbad",
-            "category": "فارس عباد",
-            "category_en": "Fares Abbad"
+            "id": "121",
+            "name": "إذاعة عبدالله الموسى",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_almousa",
+            "name_en": "إذاعة عبدالله الموسى",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "187",
-            "name": "إذاعة الشيخ ماهر المعيقلي",
-            "radio_url": "https://backup.qurango.net/radio/maher",
-            "name_en": "Sheikh Maher Al Muaiqly",
-            "category": "ماهر المعيقلي",
-            "category_en": "Maher Al Muaiqly"
+            "id": "122",
+            "name": "إذاعة عبدالله الخلف",
+            "radio_url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+            "name_en": "إذاعة عبدالله الخلف",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "188",
-            "name": "إذاعة الشيخ وديع اليمني",
-            "radio_url": "https://backup.qurango.net/radio/wadie_alyamani",
-            "name_en": "Sheikh Wadie Al Yamani",
-            "category": "وديع اليمني",
-            "category_en": "Wadie Al Yamani"
+            "id": "123",
+            "name": "-تراتيل قصيرة متميزة-",
+            "radio_url": "https://backup.qurango.net/radio/tarateel",
+            "name_en": "-تراتيل قصيرة متميزة-",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
-            "id": "189",
-            "name": "إذاعة الشيخ عبد الرحمن السديس",
-            "radio_url": "https://backup.qurango.net/radio/sudais",
-            "name_en": "Sheikh Abdul Rahman Al Sudais",
-            "category": "عبد الرحمن السديس",
-            "category_en": "Abdul Rahman Al Sudais"
-        },
-        {
-            "id": "190",
-            "name": "إذاعة الشيخ سعود الشريم",
-            "radio_url": "https://backup.qurango.net/radio/shuraim",
-            "name_en": "Sheikh Saud Al Shuraim",
-            "category": "سعود الشريم",
-            "category_en": "Saud Al Shuraim"
-        },
-        {
-            "id": "191",
-            "name": "إذاعة الشيخ علي الحذيفي",
-            "radio_url": "https://backup.qurango.net/radio/hudhaify",
-            "name_en": "Sheikh Ali Al Hudhaify",
-            "category": "علي الحذيفي",
-            "category_en": "Ali Al Hudhaify"
-        },
-        {
-            "id": "192",
-            "name": "إذاعة الشيخ عبد الله عواد الجهني",
-            "radio_url": "https://backup.qurango.net/radio/juhany",
-            "name_en": "Sheikh Abdullah Awad Al Juhany",
-            "category": "عبد الله عواد الجهني",
-            "category_en": "Abdullah Awad Al Juhany"
-        },
-        {
-            "id": "193",
-            "name": "إذاعة الشيخ بندر بليلة",
-            "radio_url": "https://backup.qurango.net/radio/baleelah",
-            "name_en": "Sheikh Bandar Baleelah",
-            "category": "بندر بليلة",
-            "category_en": "Bandar Baleelah"
-        },
-        {
-            "id": "194",
-            "name": "إذاعة الشيخ عبد المحسن القاسم",
-            "radio_url": "https://backup.qurango.net/radio/qasim",
-            "name_en": "Sheikh Abdul Mohsen Al Qasim",
-            "category": "عبد المحسن القاسم",
-            "category_en": "Abdul Mohsen Al Qasim"
-        },
-        {
-            "id": "195",
-            "name": "إذاعة الشيخ محمد أيوب",
-            "radio_url": "https://backup.qurango.net/radio/ayyoub",
-            "name_en": "Sheikh Muhammad Ayyub",
-            "category": "محمد أيوب",
-            "category_en": "Muhammad Ayyub"
-        },
-        {
-            "id": "196",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "197",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "198",
-            "name": "إذاعة الشيخ محمود خليل الحصري - حفص",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "199",
-            "name": "إذاعة الشيخ محمود علي البنا - حفص",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "200",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "201",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "202",
-            "name": "إذاعة الشيخ محمود خليل الحصري - قالون",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "203",
-            "name": "إذاعة الشيخ محمود علي البنا - قالون",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "204",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "205",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "206",
-            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "207",
-            "name": "إذاعة الشيخ محمود علي البنا - الدوري",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "208",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "209",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "210",
-            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "211",
-            "name": "إذاعة الشيخ محمود علي البنا - السوسي",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "212",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "213",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "214",
-            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "215",
-            "name": "إذاعة الشيخ محمود علي البنا - شعبة",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "216",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "id": "139",
+            "name": "إذاعة ماجد الزامل",
+            "radio_url": "https://backup.qurango.net/radio/majed_alzamel",
+            "name_en": "إذاعة ماجد الزامل",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "217",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "218",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "219",
-            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "220",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs_an_asim",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs 'an 'Asim",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "221",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs_an_asim",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs 'an 'Asim",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "222",
-            "name": "إذاعة الشيخ محمود خليل الحصري - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs_an_asim",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs 'an 'Asim",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "223",
-            "name": "إذاعة الشيخ محمود علي البنا - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs_an_asim",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs 'an 'Asim",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "224",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh_an_nafi",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh 'an Nafi'",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "225",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_warsh_an_nafi",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Warsh 'an Nafi'",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "226",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh_an_nafi",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh 'an Nafi'",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "227",
-            "name": "إذاعة الشيخ محمود علي البنا - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_warsh_an_nafi",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Warsh 'an Nafi'",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "228",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon_an_nafi",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon 'an Nafi'",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "229",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon_an_nafi",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon 'an Nafi'",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "230",
-            "name": "إذاعة الشيخ محمود خليل الحصري - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon_an_nafi",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon 'an Nafi'",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "231",
-            "name": "إذاعة الشيخ محمود علي البنا - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon_an_nafi",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon 'an Nafi'",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "232",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri_an_abi_amr",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri 'an Abi Amr",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "233",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri_an_abi_amr",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri 'an Abi Amr",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "234",
-            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri 'an Abi Amr",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "235",
-            "name": "إذاعة الشيخ محمود علي البنا - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri 'an Abi Amr",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "236",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi_an_abi_amr",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi 'an Abi Amr",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "237",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi_an_abi_amr",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi 'an Abi Amr",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "238",
-            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi 'an Abi Amr",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "239",
-            "name": "إذاعة الشيخ محمود علي البنا - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi 'an Abi Amr",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "240",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah_an_asim",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah 'an 'Asim",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "241",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah_an_asim",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah 'an 'Asim",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "242",
-            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah_an_asim",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah 'an 'Asim",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "243",
-            "name": "إذاعة الشيخ محمود علي البنا - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah_an_asim",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah 'an 'Asim",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "244",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "245",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "246",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "247",
-            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
+            "name": "إذاعة بندر بليلة",
+            "radio_url": "https://backup.qurango.net/radio/bandar_balilah",
+            "name_en": "إذاعة بندر بليلة",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "248",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_hafs_an_asim",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Hafs 'an 'Asim",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "249",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_hafs_an_asim",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Hafs 'an 'Asim",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "250",
-            "name": "إذاعة الشيخ محمود خليل الحصري - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_hafs_an_asim",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Hafs 'an 'Asim",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "251",
-            "name": "إذاعة الشيخ محمود علي البنا - حفص عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_hafs_an_asim",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Hafs 'an 'Asim",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "252",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh_an_nafi",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Warsh 'an Nafi'",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "253",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_warsh_an_nafi",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Warsh 'an Nafi'",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "254",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh_an_nafi",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Warsh 'an Nafi'",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "255",
-            "name": "إذاعة الشيخ محمود علي البنا - ورش عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_warsh_an_nafi",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Warsh 'an Nafi'",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "256",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_qaloon_an_nafi",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Qaloon 'an Nafi'",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "257",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_qaloon_an_nafi",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Qaloon 'an Nafi'",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "258",
-            "name": "إذاعة الشيخ محمود خليل الحصري - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_qaloon_an_nafi",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Qaloon 'an Nafi'",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "259",
-            "name": "إذاعة الشيخ محمود علي البنا - قالون عن نافع",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_qaloon_an_nafi",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Qaloon 'an Nafi'",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "260",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_douri_an_abi_amr",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Duri 'an Abi Amr",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "name": "إذاعة ناصر العصفور",
+            "radio_url": "https://backup.qurango.net/radio/nasser_alosfor",
+            "name_en": "إذاعة ناصر العصفور",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "261",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_douri_an_abi_amr",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Duri 'an Abi Amr",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "262",
-            "name": "إذاعة الشيخ محمود خليل الحصري - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_douri_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Duri 'an Abi Amr",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "263",
-            "name": "إذاعة الشيخ محمود علي البنا - الدوري عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_douri_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Duri 'an Abi Amr",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "264",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_susi_an_abi_amr",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Susi 'an Abi Amr",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
+            "name": "إذاعة محمد أيوب - قراءة مميزة-",
+            "radio_url": "https://backup.qurango.net/radio/ayyoub2",
+            "name_en": "إذاعة محمد أيوب - قراءة مميزة-",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "265",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_susi_an_abi_amr",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Susi 'an Abi Amr",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "266",
-            "name": "إذاعة الشيخ محمود خليل الحصري - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_susi_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Susi 'an Abi Amr",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "267",
-            "name": "إذاعة الشيخ محمود علي البنا - السوسي عن أبي عمرو",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_susi_an_abi_amr",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Susi 'an Abi Amr",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "268",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_shubah_an_asim",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Shu'bah 'an 'Asim",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "269",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_shubah_an_asim",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Shu'bah 'an 'Asim",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
-        },
-        {
-            "id": "270",
-            "name": "إذاعة الشيخ محمود خليل الحصري - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_shubah_an_asim",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Shu'bah 'an 'Asim",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
-        },
-        {
-            "id": "271",
-            "name": "إذاعة الشيخ محمود علي البنا - شعبة عن عاصم",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_shubah_an_asim",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Shu'bah 'an 'Asim",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
-        },
-        {
-            "id": "272",
-            "name": "إذاعة الشيخ عبد الباسط عبد الصمد - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Abdul Basit Abdul Samad - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "عبد الباسط عبد الصمد",
-            "category_en": "Abdul Basit Abdul Samad"
-        },
-        {
-            "id": "273",
-            "name": "إذاعة الشيخ محمد صديق المنشاوي - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mohammed Siddiq Al Minshawi - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمد صديق المنشاوي",
-            "category_en": "Mohammed Siddiq Al Minshawi"
+            "name": "إذاعة أحمد ديبان",
+            "radio_url": "https://backup.qurango.net/radio/ahmad_deban",
+            "name_en": "إذاعة أحمد ديبان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "274",
-            "name": "إذاعة الشيخ محمود خليل الحصري - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mahmoud Khalil Al Hussary - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمود خليل الحصري",
-            "category_en": "Mahmoud Khalil Al Hussary"
+            "name": "أذاعة محمد أبوسنينة",
+            "radio_url": "https://backup.qurango.net/radio/sneineh",
+            "name_en": "أذاعة محمد أبوسنينة",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         },
         {
             "id": "275",
-            "name": "إذاعة الشيخ محمود علي البنا - ابن ذكوان عن ابن عامر",
-            "radio_url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_ibn_thakwan_an_ibn_amir",
-            "name_en": "Sheikh Mahmoud Ali Al Banna - Ibn Thakwan 'an Ibn 'Amir",
-            "category": "محمود علي البنا",
-            "category_en": "Mahmoud Ali Al Banna"
+            "name": "إذاعة محمد الأمين قنيوة",
+            "radio_url": "https://backup.qurango.net/radio/qeniwa",
+            "name_en": "إذاعة محمد الأمين قنيوة",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "287",
+            "name": "إذاعة عبدالرحمن الشحات",
+            "radio_url": "https://backup.qurango.net/radio/a_alshahhat",
+            "name_en": "إذاعة عبدالرحمن الشحات",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "307",
+            "name": "عبدالعزيز سحيم",
+            "radio_url": "https://backup.qurango.net/radio/a_sheim",
+            "name_en": "عبدالعزيز سحيم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "10902",
+            "name": "آيات السكينة",
+            "radio_url": "https://backup.qurango.net/radio/sakeenah",
+            "name_en": "آيات السكينة",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "10903",
+            "name": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
+            "radio_url": "https://backup.qurango.net/radio/sahabah",
+            "name_en": "---إذاعة صور من حياة الصحابة والتابعين رضوان الله عليهم---",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "10904",
+            "name": "المختصر في تفسير القرآن الكريم",
+            "radio_url": "https://backup.qurango.net/radio/mukhtasartafsir",
+            "name_en": "المختصر في تفسير القرآن الكريم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "10906",
+            "name": "أذكار الصباح",
+            "radio_url": "https://backup.qurango.net/radio/athkar_sabah",
+            "name_en": "أذكار الصباح",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "10907",
+            "name": "أذكار المساء",
+            "radio_url": "https://backup.qurango.net/radio/athkar_masa",
+            "name_en": "أذكار المساء",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "21114",
+            "name": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+            "radio_url": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+            "name_en": "في ظلال السيرة النبوية - 400 حلقة عن سيرة نبينا محمد صلى الله عليه وسلم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "21115",
+            "name": "المختصر في السيرة النبوية",
+            "radio_url": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+            "name_en": "المختصر في السيرة النبوية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "21116",
+            "name": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+            "radio_url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+            "name_en": "كتاب الاختيارات الفقهية في مسائل العبادات والمعاملات",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "21117",
+            "name": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
+            "radio_url": "https://backup.qurango.net/radio/tabri",
+            "name_en": "تفسير القران الكريم-الخلاصة من تفسير الطبري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109038",
+            "name": "صالح الهبدان",
+            "radio_url": "https://backup.qurango.net/radio/saleh_alhabdan",
+            "name_en": "صالح الهبدان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109039",
+            "name": "ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+            "name_en": "ترجمة معاني القرآن باللغة الأوردية - عبدالباسط عبدالصمد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109040",
+            "name": "ترجمة معاني القرآن باللغة الأسبانية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+            "name_en": "ترجمة معاني القرآن باللغة الأسبانية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109041",
+            "name": "ترجمة معاني القرآن باللغة الألبانية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_albanian",
+            "name_en": "ترجمة معاني القرآن باللغة الألبانية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109042",
+            "name": "ترجمة معاني القرآن باللغة الألمانية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_german",
+            "name_en": "ترجمة معاني القرآن باللغة الألمانية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109043",
+            "name": "ترجمة معاني القرآن باللغة الأمازيغية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_tamazight",
+            "name_en": "ترجمة معاني القرآن باللغة الأمازيغية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109044",
+            "name": "ترجمة معاني القرآن باللغة الأوردية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+            "name_en": "ترجمة معاني القرآن باللغة الأوردية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109045",
+            "name": "ترجمة معاني القرآن باللغة الأوردية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+            "name_en": "ترجمة معاني القرآن باللغة الأوردية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109046",
+            "name": "ترجمة معاني القرآن باللغة الإنجليزية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_english_basit",
+            "name_en": "ترجمة معاني القرآن باللغة الإنجليزية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109047",
+            "name": "ترجمة معاني القرآن باللغة الإنجليزية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+            "name_en": "ترجمة معاني القرآن باللغة الإنجليزية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109048",
+            "name": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+            "name_en": "ترجمة معاني القرآن باللغة الإنجليزية -ترجمة والك-",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109049",
+            "name": "ترجمة معاني القرآن باللغة البرتغالية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_portuguese",
+            "name_en": "ترجمة معاني القرآن باللغة البرتغالية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109050",
+            "name": "ترجمة معاني القرآن باللغة البوسنية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_bosnia",
+            "name_en": "ترجمة معاني القرآن باللغة البوسنية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109051",
+            "name": "ترجمة معاني القرآن باللغة التركية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_turkish",
+            "name_en": "ترجمة معاني القرآن باللغة التركية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109052",
+            "name": "ترجمة معاني القرآن باللغة الروسية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_Russia",
+            "name_en": "ترجمة معاني القرآن باللغة الروسية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109053",
+            "name": "ترجمة معاني القرآن باللغة الصينية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_chinese",
+            "name_en": "ترجمة معاني القرآن باللغة الصينية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109054",
+            "name": "ترجمة معاني القرآن باللغة الفارسية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_farsi",
+            "name_en": "ترجمة معاني القرآن باللغة الفارسية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109055",
+            "name": "ترجمة معاني القرآن باللغة الفرنسية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_french",
+            "name_en": "ترجمة معاني القرآن باللغة الفرنسية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109056",
+            "name": "ترجمة معاني القرآن باللغة الكردية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_kurdish",
+            "name_en": "ترجمة معاني القرآن باللغة الكردية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109057",
+            "name": "ترجمة معاني القرآن باللغة الكورية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_Korean",
+            "name_en": "ترجمة معاني القرآن باللغة الكورية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109058",
+            "name": "ترجمة معاني القرآن باللغة المجرية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_hungarian",
+            "name_en": "ترجمة معاني القرآن باللغة المجرية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109059",
+            "name": "ترجمة معاني القرآن باللغة اليونانية",
+            "radio_url": "https://backup.qurango.net/radio/translation_quran_greek",
+            "name_en": "ترجمة معاني القرآن باللغة اليونانية",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109060",
+            "name": "سورة الملك",
+            "radio_url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+            "name_en": "سورة الملك",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109061",
+            "name": "فضل شهر رمضان",
+            "radio_url": "https://backup.qurango.net/radio/ramadan",
+            "name_en": "فضل شهر رمضان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109062",
+            "name": "ترجمة معاني القرآن باللغة الهوسا",
+            "radio_url": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+            "name_en": "ترجمة معاني القرآن باللغة الهوسا",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109066",
+            "name": "صحيح مسلم",
+            "radio_url": "https://backup.qurango.net/radio/saheh-muslim",
+            "name_en": "صحيح مسلم",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109067",
+            "name": "صحيح البخاري",
+            "radio_url": "https://backup.qurango.net/radio/saheh-bokharee",
+            "name_en": "صحيح البخاري",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109069",
+            "name": "***قصص الأنبياء***",
+            "radio_url": "https://backup.qurango.net/radio/alanbiya",
+            "name_en": "***قصص الأنبياء***",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109073",
+            "name": "رياض الصالحين",
+            "radio_url": "https://backup.qurango.net/radio/riyad",
+            "name_en": "رياض الصالحين",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109074",
+            "name": "عبدالله البعيجان",
+            "radio_url": "https://backup.qurango.net/radio/buajan",
+            "name_en": "عبدالله البعيجان",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109075",
+            "name": "أحمد طالب بن حميد",
+            "radio_url": "https://backup.qurango.net/radio/a_binhameed",
+            "name_en": "أحمد طالب بن حميد",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109076",
+            "name": "تفسير غريب القرآن",
+            "radio_url": "https://backup.qurango.net/radio/gareeb-quran",
+            "name_en": "تفسير غريب القرآن",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109077",
+            "name": "بدر التركي",
+            "radio_url": "https://backup.qurango.net/radio/bader",
+            "name_en": "بدر التركي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
+        },
+        {
+            "id": "109078",
+            "name": "هزاع البلوشي",
+            "radio_url": "https://backup.qurango.net/radio/hazza",
+            "name_en": "هزاع البلوشي",
+            "category": "Unknown Language",
+            "category_en": "Unknown Language"
         }
     ]
 }
